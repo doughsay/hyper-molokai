@@ -1,0 +1,16 @@
+{
+  "name": "hyper-molokai",
+  "version": "1.0.0",
+  "description": "Molokai theme for Hyper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doughsay/hyper-molokai.git"
+  },
+  "author": "Chris Dosé <chris.dose@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doughsay/hyper-molokai/issues"
+  },
+  "homepage": "https://github.com/doughsay/hyper-molokai#readme"
+}
